@@ -1,6 +1,6 @@
 # ECC — Agent Talimatları
 
-Bu, yazılım geliştirme için 72 özel agent, 328 skill, 99 command ve otomatik hook iş akışları sağlayan **üretime hazır bir AI kodlama eklentisidir**.
+Bu, yazılım geliştirme için 115 özel agent, 328 skill, 99 command ve otomatik hook iş akışları sağlayan **üretime hazır bir AI kodlama eklentisidir**.
 
 **Sürüm:** 2.2.3
 
@@ -141,7 +141,7 @@ Başarısızlık sorunlarını giderin: test izolasyonunu kontrol edin → mockl
 ## Proje Yapısı
 
 ```
-agents/          — 72 özel subagent
+agents/          — 115 özel subagent
 skills/          — 328 iş akışı skillleri ve alan bilgisi
 commands/        — 99 slash command
 hooks/           — Tetikleyici tabanlı otomasyonlar
